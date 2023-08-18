@@ -18,13 +18,14 @@ The dataset used for this task was presented by https://www.theforage.com
 1. The data consists of over 5000 rows and 16 columns.
 2. Cleaned the data in Excel and Power BI.
 3. Changed the datatypes of certain columns.
-4. From the time column, created the time of day column which reflects the number of calls at a specified time of the day such as afternoon, morning or evening.
-5. From the average talk duration, the duration was calculated in secs and minutes separately.
-6. The speed of the answer was calculated in minutes as well for consistent data.
-7. The month name and weekday are extracted for further analysis.
-8. Replaced Y/N with Yes/No for better readability.
-9. Sorted the month and week in charts using the daynum and monthnum columns.
-10. Various Dax Measures were created beforehand like Average satisfaction rating, average speed of answers in minutes/seconds, Total calls etc.
+4. Formatted the date column.
+5. From the time column, created the time of day column which reflects the number of calls at a specified time of the day such as afternoon, morning or evening.
+6. From the average talk duration, the duration was calculated in secs and minutes separately.
+7. The speed of the answer was calculated in minutes as well for consistent data.
+8. The month name and weekday are extracted for further analysis.
+9. Replaced Y/N with Yes/No for better readability.
+10. Sorted the month and week in charts using the daynum and monthnum columns.
+11. Various Dax Measures were created beforehand like Average satisfaction rating, average speed of answers in minutes/seconds, Total calls etc.
 
 ## Questions to be answered:
 1. Important Overall metrics like :
